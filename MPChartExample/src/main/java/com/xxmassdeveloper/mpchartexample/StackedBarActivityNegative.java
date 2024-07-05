@@ -35,8 +35,7 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
 
-public class StackedBarActivityNegative extends DemoBase implements
-        OnChartValueSelectedListener {
+public class StackedBarActivityNegative extends DemoBase implements OnChartValueSelectedListener {
 
     private HorizontalBarChart chart;
 
